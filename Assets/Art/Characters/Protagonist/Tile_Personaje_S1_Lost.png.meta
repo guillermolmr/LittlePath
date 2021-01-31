@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 8a7f0e5677ffd2a4cafb96b0fc845fef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7560469547533512683
+    second: Tile_Personaje_S1_Lost_0
+  - first:
+      213: -6009153679309176993
+    second: Tile_Personaje_S1_Lost_1
+  - first:
+      213: -7664324592322815759
+    second: Tile_Personaje_S1_Lost_2
+  - first:
+      213: -5985824558454858392
+    second: Tile_Personaje_S1_Lost_3
+  - first:
+      213: 1463875238639082166
+    second: Tile_Personaje_S1_Lost_4
+  - first:
+      213: -5547421710755855950
+    second: Tile_Personaje_S1_Lost_5
+  - first:
+      213: 7231054323799874723
+    second: Tile_Personaje_S1_Lost_6
+  - first:
+      213: -440875814440396034
+    second: Tile_Personaje_S1_Lost_7
+  - first:
+      213: 7289315221187022398
+    second: Tile_Personaje_S1_Lost_8
+  - first:
+      213: 2097944369211257928
+    second: Tile_Personaje_S1_Lost_9
+  - first:
+      213: -3180301622570245153
+    second: Tile_Personaje_S1_Lost_10
+  - first:
+      213: 7605521980808581130
+    second: Tile_Personaje_S1_Lost_11
+  - first:
+      213: -4715353592483185491
+    second: Tile_Personaje_S1_Lost_12
+  - first:
+      213: 622359978012692688
+    second: Tile_Personaje_S1_Lost_13
+  - first:
+      213: 1599477846767561288
+    second: Tile_Personaje_S1_Lost_14
+  - first:
+      213: 3002803239701527533
+    second: Tile_Personaje_S1_Lost_15
+  - first:
+      213: -5385289762721944892
+    second: Tile_Personaje_S1_Lost_16
+  - first:
+      213: -1795942211152310104
+    second: Tile_Personaje_S1_Lost_17
+  - first:
+      213: 8648003760577671534
+    second: Tile_Personaje_S1_Lost_18
+  - first:
+      213: -1434957950663428462
+    second: Tile_Personaje_S1_Lost_19
+  - first:
+      213: -4430782315182841913
+    second: Tile_Personaje_S1_Lost_20
+  - first:
+      213: 4129248335064828156
+    second: Tile_Personaje_S1_Lost_21
+  - first:
+      213: 9170345508994325695
+    second: Tile_Personaje_S1_Lost_22
+  - first:
+      213: 7861074934849691373
+    second: Tile_Personaje_S1_Lost_23
+  - first:
+      213: -747757552581116110
+    second: Tile_Personaje_S1_Lost_24
+  - first:
+      213: 8176688362301835021
+    second: Tile_Personaje_S1_Lost_25
+  - first:
+      213: 7989140628762640906
+    second: Tile_Personaje_S1_Lost_26
+  - first:
+      213: 7136545763754848541
+    second: Tile_Personaje_S1_Lost_27
+  - first:
+      213: -9047159360892424311
+    second: Tile_Personaje_S1_Lost_28
+  - first:
+      213: 7258076572304879061
+    second: Tile_Personaje_S1_Lost_29
+  - first:
+      213: 8585685290963468928
+    second: Tile_Personaje_S1_Lost_30
+  - first:
+      213: -4754463542566443421
+    second: Tile_Personaje_S1_Lost_31
+  - first:
+      213: -4632110563613915951
+    second: Tile_Personaje_S1_Lost_32
+  - first:
+      213: 5121945991657695656
+    second: Tile_Personaje_S1_Lost_33
+  - first:
+      213: 5268660968715286465
+    second: Tile_Personaje_S1_Lost_34
+  - first:
+      213: 3421804939305374205
+    second: Tile_Personaje_S1_Lost_35
+  - first:
+      213: -6162454208688532316
+    second: Tile_Personaje_S1_Lost_36
+  - first:
+      213: 7047929062725922797
+    second: Tile_Personaje_S1_Lost_37
+  - first:
+      213: 581070777989752757
+    second: Tile_Personaje_S1_Lost_38
+  - first:
+      213: -1636847374805662737
+    second: Tile_Personaje_S1_Lost_39
+  - first:
+      213: 8519226371283837833
+    second: Tile_Personaje_S1_Lost_40
+  - first:
+      213: 766542667409198654
+    second: Tile_Personaje_S1_Lost_41
+  - first:
+      213: 4401159123910290598
+    second: Tile_Personaje_S1_Lost_42
+  - first:
+      213: 1482653915559572210
+    second: Tile_Personaje_S1_Lost_43
+  - first:
+      213: -5982563935332182540
+    second: Tile_Personaje_S1_Lost_44
+  - first:
+      213: 2150314517581575920
+    second: Tile_Personaje_S1_Lost_45
+  - first:
+      213: 6628538195768393441
+    second: Tile_Personaje_S1_Lost_46
+  - first:
+      213: -300226506903873834
+    second: Tile_Personaje_S1_Lost_47
+  - first:
+      213: -2613876492752170783
+    second: Tile_Personaje_S1_Lost_48
+  - first:
+      213: 5705896835614751079
+    second: Tile_Personaje_S1_Lost_49
+  - first:
+      213: -9168150821693157528
+    second: Tile_Personaje_S1_Lost_50
+  - first:
+      213: -8246396131835138414
+    second: Tile_Personaje_S1_Lost_51
+  - first:
+      213: -8722849417902838072
+    second: Tile_Personaje_S1_Lost_52
+  - first:
+      213: 7320433257083134951
+    second: Tile_Personaje_S1_Lost_53
+  - first:
+      213: 2248459890529080597
+    second: Tile_Personaje_S1_Lost_54
+  - first:
+      213: 6426208415649631253
+    second: Tile_Personaje_S1_Lost_55
+  - first:
+      213: 5025509391191049401
+    second: Tile_Personaje_S1_Lost_56
+  - first:
+      213: 5261954147444266611
+    second: Tile_Personaje_S1_Lost_57
+  - first:
+      213: -5711828490888947357
+    second: Tile_Personaje_S1_Lost_58
+  - first:
+      213: -206853028906822943
+    second: Tile_Personaje_S1_Lost_59
+  - first:
+      213: 3494125267771342421
+    second: Tile_Personaje_S1_Lost_60
+  - first:
+      213: 3119380033890597185
+    second: Tile_Personaje_S1_Lost_61
+  - first:
+      213: -145787353288596933
+    second: Tile_Personaje_S1_Lost_62
+  - first:
+      213: -5034554126216278431
+    second: Tile_Personaje_S1_Lost_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile_Personaje_S1_Lost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befa4e31ffe2ce860800000000000000
+      internalID: 7560469547533512683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Personaje_S1_Lost_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f7b0801923b9ca0800000000000000
+      internalID: -6009153679309176993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Personaje_S1_Lost_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8de4ff369d2a590800000000000000
+      internalID: -7664324592322815759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Personaje_S1_Lost_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1d7147441eeca0800000000000000
+      internalID: -5985824558454858392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Personaje_S1_Lost_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba929a06cab05410800000000000000
+      internalID: 1463875238639082166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Personaje_S1_Lost_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18b1778599303b0800000000000000
+      internalID: -5547421710755855950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Personaje_S1_Lost_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd4a1889dd95460800000000000000
+      internalID: 7231054323799874723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Personaje_S1_Lost_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa183a58c1b1e9f0800000000000000
+      internalID: -440875814440396034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
